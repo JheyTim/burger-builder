@@ -23,7 +23,7 @@ const store = createStore(rootReducer, composeEnhancers(applyMiddleware(thunk)))
 
 const app = (
   <Provider store={store}>
-      <BrowserRouter basename='http://jheytim.github.io/burger-builder'>
+      <BrowserRouter basename="/burger-builder">
         <App />
       </BrowserRouter>
   </Provider>
