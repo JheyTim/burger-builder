@@ -1,3 +1,8 @@
+### Login Credentials
+
+Email: test@gmail.com
+Password: 123456
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
